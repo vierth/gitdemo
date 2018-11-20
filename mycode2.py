@@ -1,4 +1,4 @@
 # this is more code
 print('hi')
 
-print('ubunut')
+print("I like ubuntu!")
